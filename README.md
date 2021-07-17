@@ -62,7 +62,6 @@ I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 <br>
 <br>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
 
