@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
 ### Hello World <img src="https://raw.githubusercontent.com/avazquezcendron/avazquezcendron/master/assets/wave.gif" width="30px">
 I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 
@@ -61,8 +62,6 @@ I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 </a>
 <br>
 <br>
-
-![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
 
 
 <!--
