@@ -62,8 +62,8 @@ I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 <br>
 <br>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
+
 
 <!--
 ## Blog posts
