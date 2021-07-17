@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World <img src="https://raw.githubusercontent.com/avazquezcendron/avazquezcendron/master/assets/wave.gif" width="30px">
 I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 
 - 🔭 Working remotely as a Full Stack Software Engineer at [Charles Taylor InsureTech](https://www.charlestaylor.com/en/insuretech/)
@@ -11,6 +11,7 @@ I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 - 📫 How to reach me: <agustiki@hotmail.com> | Skype ID: ***agustiki_1***
 
 ### Expertise
+
 ![.Net](https://img.shields.io/badge/-.net-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL_SERVER](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -33,7 +34,37 @@ I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
 <br>
 <br>
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/avazquezcendron/avazquezcendron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avazquezcendron&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<a href="https://github.com/avazquezcendron/avazquezcendron">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=avazquezcendron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agustin's GitHub Stats" />
+</a>
+
+## 📃 Repos
+<a href="https://github.com/avazquezcendron/osi-web-site">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=osi-web-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/avazquezcendron/star-me-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=star-me-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/avazquezcendron/my-resume">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=my-resume&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/avazquezcendron/memory-card-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=memory-card-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br>
+<br>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
 
 <!--
 ## Blog posts
