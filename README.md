@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=avazquezcendron.avazquezcendron)
 ### Hello World <img src="https://raw.githubusercontent.com/avazquezcendron/avazquezcendron/master/assets/wave.gif" width="30px">
-I am a fullstack software engineer from Patagonia Argentina ⛰❄🌊
+I am a full stack software engineer from Patagonia Argentina ⛰❄🌊
 
 - 🔭 Working remotely as a Full Stack Software Engineer at [Charles Taylor InsureTech](https://www.charlestaylor.com/en/insuretech/)
 - 💻 Building applications with Angular, React, .Net Core, Node.Js...
