@@ -10,6 +10,7 @@ I am a full stack software engineer from Patagonia Argentina ⛰❄🌊
 - 📜 Spanish and English
 -  📎  [Resume](https://resume.aonikenk.dev/)
 - 📫 How to reach me: <agustiki@hotmail.com> | Skype ID: ***agustiki_1***
+- 📇 Presentation Card: `npx avazquezcendron` (npm required)
 
 ### Expertise
 
