@@ -1,5 +1,6 @@
 {
   "name": "avazquezcendron",
+  "version": "1.0.0",
   "description": "A cool README & presentation card 😎",
   "main": "./src/index.js",
   "bin": {
