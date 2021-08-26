@@ -6,7 +6,7 @@ I am a full stack software engineer from Patagonia Argentina ⛰❄🌊
 - 💻 Building applications with Angular, React, .Net Core, Node.Js...
 - 🌱 ***Always looking to improve myself and learn new tools and technologies***
 - 💪 Enthusiast of good practices, design patterns and DS&A.
-- 📚 Imporving my skills with JavaScript, TypeScript, React and Node. 
+- 📚 Improving my skills with JavaScript, TypeScript, React and Node. 
 - 📜 Spanish and English
 -  📎  [Resume](https://resume.aonikenk.dev/)
 - 📫 How to reach me: <agustiki@hotmail.com> | Skype ID: ***agustiki_1***
