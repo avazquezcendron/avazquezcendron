@@ -22,7 +22,7 @@ I am a full stack software developer from Patagonia Argentina ⛰❄🌊
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL_SERVER](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ### Social Media
