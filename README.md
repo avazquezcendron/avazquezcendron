@@ -15,14 +15,14 @@ I am a full stack software developer from Patagonia Argentina ⛰❄🌊
 ### Expertise
 
 ![.Net](https://img.shields.io/badge/-.net-blueviolet?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL_SERVER](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Node.js](https://img.shields.io/badge/-node.js%20-%2343853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-react%20-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br />
+![C#](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-react%20-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.Js](https://img.shields.io/badge/-node.js%20-%2343853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL_SERVER](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 ### Social Media
