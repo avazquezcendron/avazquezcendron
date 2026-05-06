@@ -28,7 +28,6 @@ I am a full stack software developer from Patagonia Argentina ⛰❄🌊
 ### Social Media
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agustinvazquezcendron/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />](https://twitter.com/ElAngelGris_05)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-orange.svg?&style=flat&logo=instagram&logoColor=white" />](https://www.instagram.com/agusvazquezcend_/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" />](https://www.facebook.com/agustin.vazquezcendron/)
 
