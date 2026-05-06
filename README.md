@@ -45,22 +45,6 @@ I am a full stack software developer from Patagonia Argentina ⛰❄🌊
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=avazquezcendron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agustin's GitHub Stats" />
 </a>
 
-## 📃 Repos
-<a href="https://github.com/avazquezcendron/osi-web-site">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=osi-web-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/avazquezcendron/star-me-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=star-me-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/avazquezcendron/my-resume">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=my-resume&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/avazquezcendron/memory-card-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avazquezcendron&repo=memory-card-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <br>
 <br>
 
